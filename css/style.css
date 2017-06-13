@@ -1,0 +1,13 @@
+#show-todo{
+  display:none;
+}
+
+
+.listings{
+  cursor:pointer;
+  color:#0088cc;
+}
+
+.listings:hover{
+  text-decoration: line-through;
+}
